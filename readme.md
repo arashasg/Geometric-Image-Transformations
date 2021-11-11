@@ -19,6 +19,7 @@ plate and stored them.
 <p float="left" align="center">
   <img src="https://github.com/arashasg/Geometric-Image-Transformations/blob/master/Images/Input.PNG"  width="350px" height="350px"/>
 </p>
+
 ### Output:
 <p float="left" align="center">
   <img src="https://github.com/arashasg/Geometric-Image-Transformations/blob/master/Images/Output.PNG"  width="550px" height="350px"/>
